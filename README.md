@@ -1,4 +1,5 @@
 ![MasterImage](banner.gif)
+
 <center> <h1>Hi 👋, I'm Kazi Sahim</h1> </center>
 
 <center> An Aspiring Data Scientist </center>
