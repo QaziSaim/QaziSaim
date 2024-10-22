@@ -3,7 +3,6 @@
 
 <center> An Aspiring Data Scientist </center>
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=QaziSaim&color=blue)
 
 ---
 
