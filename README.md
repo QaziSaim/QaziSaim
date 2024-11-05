@@ -2,9 +2,6 @@
 
 <center> <h1>Hi 👋, I'm Kazi Sahim</h1> </center>
 
-<center> An Aspiring Data Scientist </center>
----
-
 ---
 
 🌏 I’m based in Mumbai, Maharashtra, India
