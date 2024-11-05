@@ -72,4 +72,4 @@
 
 ### Tools You Use
 
-- **Jupyter Notebook**: 60.00%
+- **Jupyter Notebook**: 100.00%
