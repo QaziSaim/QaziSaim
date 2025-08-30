@@ -34,7 +34,7 @@
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
-![](https://img.shields.io/docker/v/:user/:repo)
+[![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white)](#)
 ---
 
 ### 📊 GitHub Stats:
