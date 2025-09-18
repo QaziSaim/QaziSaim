@@ -1,4 +1,4 @@
-![MasterImage](banner.gif)
+![MasterImage](banner-again2.png)
 
 <center> <h1>Hi 👋, I'm Kazi Sahim</h1> </center>
 
